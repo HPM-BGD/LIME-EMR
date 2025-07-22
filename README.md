@@ -207,8 +207,8 @@ Add the below Maven Server config and API key to your system's Maven settings. R
   <servers>
     <server>
       <id>msf-ocg-github-lime-emr</id>
-      <username>YOUR_GITHUB_USERNAME</username>
-      <password>YOU_GITHUB_TOKEN</password>
+      <username>HPM-BGD</username>
+      <password>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</password>
     </server>
   </servers>
 ```
